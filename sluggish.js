@@ -33,11 +33,6 @@ var replacements = [[
 ], [
   /\./g, ''
 ]];
-var hyphenated = /-([a-z])/g;
-
-function truthy (value) {
-  return !!value;
-}
 
 function slugify (text) {
   var partial = translate(text, replacements);
