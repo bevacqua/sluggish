@@ -1,6 +1,6 @@
 {
   "name": "sluggish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sluggish slug generator that works universally",
   "repository": {
     "type": "git",
@@ -16,8 +16,7 @@
   "scripts": {
     "test": "tape test/**/*.js"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "3.5.0"
   }
