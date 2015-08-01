@@ -1,0 +1,24 @@
+{
+  "name": "sluggish",
+  "version": "2.4.3",
+  "description": "Sluggish slug generator that works universally",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bevacqua/sluggish.git"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/sluggish/issues"
+  },
+  "homepage": "https://github.com/bevacqua/sluggish",
+  "main": "sluggish.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "3.5.0"
+  }
+}
