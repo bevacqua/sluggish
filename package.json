@@ -1,6 +1,6 @@
 {
   "name": "sluggish",
-  "version": "2.4.3",
+  "version": "1.0.0",
   "description": "Sluggish slug generator that works universally",
   "repository": {
     "type": "git",
